@@ -14,5 +14,6 @@ int main() {
     auto c2=c1*c1;
     std::cout<<c2<<std::endl;
     std::cout<<"Test";
+
     return 0;
 }
